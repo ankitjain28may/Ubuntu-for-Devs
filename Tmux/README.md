@@ -39,9 +39,9 @@ I have added `.tmux.conf` file which contains a configuration for the tmux that 
   ```shell
     prefix[ctrl+a] + [Arrows Key]
   ```
-    OR
+   OR
 
-    >You can use switch using mouse by clicking on the required pane.
+   >You can use switch using mouse by clicking on the required pane.
 
 ## Getting Started with Tmux
 
